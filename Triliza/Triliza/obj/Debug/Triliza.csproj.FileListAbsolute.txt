@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2017\Projects\Triliza\Triliza\bin\Debug\Triliza.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Triliza\Triliza\bin\Debug\Triliza.exe
+c:\users\user\documents\visual studio 2017\Projects\Triliza\Triliza\bin\Debug\Triliza.pdb
+c:\users\user\documents\visual studio 2017\Projects\Triliza\Triliza\obj\Debug\Triliza.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Triliza\Triliza\obj\Debug\Triliza.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\Triliza\Triliza\obj\Debug\Triliza.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\Triliza\Triliza\obj\Debug\Triliza.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\Triliza\Triliza\obj\Debug\Triliza.exe
+c:\users\user\documents\visual studio 2017\Projects\Triliza\Triliza\obj\Debug\Triliza.pdb
